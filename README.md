@@ -161,14 +161,14 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 
 ### 
 
-<!-- ### 🧪DevOps & Cloud Computing
-- **Spotify Clone (AWS Deployed)** – Full stack app deployed on AWS EC2 using Docker  
+### 🧪DevOps & Cloud Computing
+<!-- - **Spotify Clone (AWS Deployed)** – Full stack app deployed on AWS EC2 using Docker  
   🔗 GitHub: https://github.com/mr-piyushkr/SpotifyClone  
   
-  🌐 Live: http://<your-ec2-ip-or-domain>
+  🌐 Live: http://<your-ec2-ip-or-domain> -->
 
-- **Oracle Cloud Deployed Application** – Web app hosted on Oracle Cloud Infrastructure  
-  (Repo will be public soon) -->
+- **Task Manager (Deployed Cloud Deployed Application)** – Web app hosted on Oracle Cloud Infrastructure  
+  (Repo will be public soon)
 
 ---
 
