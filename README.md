@@ -14,7 +14,6 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 
 ## 🛠️ What I Work With
 
----
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -87,8 +86,9 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 - **Oracle Cloud (OCI):** Compute Instances, Networking, Security Lists (Basic)  
 - Dockerfiles, Images, Containers  
 - CI/CD with GitHub Actions  
-- Linux CLI, Bash (Basic)  
+- Linux CLI, Bash (Basic)
 
+---
 
 ### 📊 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -116,7 +116,9 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 - SDLC, Agile Methodology  
 - Debugging & Logging  
 - Basic Unit Testing  
-- Code Reviews  
+- Code Reviews
+
+---
 
 
 ## ⭐ Featured Projects
@@ -182,7 +184,7 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-piyushkr&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-piyushkr&layout=compact&theme=tokyonight" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-piyushkr&layout=compact&theme=tokyonight" /> -->
 </p>
 
 ---
