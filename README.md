@@ -168,8 +168,6 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 - **Oracle Cloud Deployed Application** – Web app hosted on Oracle Cloud Infrastructure  
   (Repo will be public soon) -->
 
-- 
-
 ---
 
 ## 🎯 What I’m Focusing On
