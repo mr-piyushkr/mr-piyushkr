@@ -134,11 +134,11 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 ### 📱 Android Applications
 - **Foodify Android App** - Food ordering app with clean UI & MVVM architecture  
   🔗 https://github.com/mr-piyushkr/Foodify-Android-App
-   📦 APK: https://github.com/mr-piyushkr/Foodify-Android-App/releases/tag/v1.0.0-initial-release
+  📦 APK: https://github.com/mr-piyushkr/Foodify-Android-App/releases/tag/v1.0.0-initial-release
 
 - **WeatherX Android App** - Weather forcast app with weather news   
   🔗 https://github.com/mr-piyushkr/WeatherX-Android-App.git
-   📦 APK: https://github.com/mr-piyushkr/WeatherX-Android-App/releases/tag/v1.0.0-initial-release
+  📦 APK: https://github.com/mr-piyushkr/WeatherX-Android-App/releases/tag/v1.0.0-initial-release
 
 
 
