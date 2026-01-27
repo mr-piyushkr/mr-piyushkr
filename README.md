@@ -125,47 +125,47 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 
 ### 🚀 Full Stack & Web
 - **EchoCart** – AI-assisted shopping & recommendation system  
-  🔗 https://github.com/mr-piyushkr/EchoCart
+  🔗 Github: [Link](https://github.com/mr-piyushkr/EchoCart)
   
-  <!-- 🌐 Live: http://<your-ec2-ip-or-domain> -->
+  <!-- 🌐 Live: []Link](http://<your-ec2-ip-or-domain) -->
 
 - **Shopping Admin Dashboard** – Role-based admin UI with data management  
-  🔗 https://github.com/mr-piyushkr/shopping-admin-dashboard
+  🔗 Github: [Link](https://github.com/mr-piyushkr/shopping-admin-dashboard)
   
-  🌐 Live: https://shopping-admin-dashboard.vercel.app/
+  🌐 Live: [Link](https://shopping-admin-dashboard.vercel.app/)
  
 
 ### 📱 Android Applications
 - **Foodify Android App** - Food ordering app with clean UI & MVVM architecture  
-  🔗 https://github.com/mr-piyushkr/Foodify-Android-App
+  🔗 Github: [Link](https://github.com/mr-piyushkr/Foodify-Android-App)
   
-  📦 APK: https://github.com/mr-piyushkr/Foodify-Android-App/releases/tag/v1.0.0-initial-release
+  📦 APK: [Link](https://github.com/mr-piyushkr/Foodify-Android-App/releases/tag/v1.0.0-initial-release)
 
 - **WeatherX Android App** - Weather forcast app with weather news   
-  🔗 https://github.com/mr-piyushkr/WeatherX-Android-App.git
+  🔗 Github: [Link](https://github.com/mr-piyushkr/WeatherX-Android-App.git)
   
-  📦 APK: https://github.com/mr-piyushkr/WeatherX-Android-App/releases/tag/v1.0.0-initial-release
+  📦 APK: [Link](https://github.com/mr-piyushkr/WeatherX-Android-App/releases/tag/v1.0.0-initial-release)
 
 
 
 ### 📊 Data Science & ML
 - **Customer Churn Prediction** - End-to-end churn analysis with ML models  
-  🔗 https://github.com/mr-piyushkr/Customer-Churn-Prediction
+  🔗 Github: [Link](https://github.com/mr-piyushkr/Customer-Churn-Prediction)
   
-  🌐 Live: https://customer-churn-prediction-gt58furz6iv5wbajz4m6y7.streamlit.app/
+  🌐 Live: [Link](https://customer-churn-prediction-gt58furz6iv5wbajz4m6y7.streamlit.app/)
 
 - **Smart Loan Risk Predictor** - Loan default risk classification system  
-  🔗 https://github.com/mr-piyushkr/Smart-Loan-Risk-Predictor
+  🔗 Github: [Link](https://github.com/mr-piyushkr/Smart-Loan-Risk-Predictor)
   
-  🌐 Live: https://smart-loan-risk-predictor-a9ludy2cof4r4yfnu5snwj.streamlit.app/
+  🌐 Live: [Link](https://smart-loan-risk-predictor-a9ludy2cof4r4yfnu5snwj.streamlit.app/)
 
 ### 
 
 ### 🧪DevOps & Cloud Computing
 <!-- - **Spotify Clone (AWS Deployed)** – Full stack app deployed on AWS EC2 using Docker  
-  🔗 GitHub: https://github.com/mr-piyushkr/SpotifyClone  
+  🔗 GitHub: [Link](https://github.com/mr-piyushkr/SpotifyClone)  
   
-  🌐 Live: http://<your-ec2-ip-or-domain> -->
+  🌐 Live: [Link](http://<your-ec2-ip-or-domain) -->
 
 - **Task Manager (Deployed Cloud Deployed Application)** – Web app hosted on Oracle Cloud Infrastructure  
   (Repo will be public soon)
@@ -191,7 +191,7 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/piyushkumar06/ 
+- 💼 LinkedIn: [Piyush Kumar](https://www.linkedin.com/in/piyushkumar06/) 
 - 📧 Email: 0602.piyushkumar@gmail.com  
 
 ---
