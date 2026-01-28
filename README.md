@@ -129,10 +129,10 @@ I believe in **learning by building**, writing **clean code**, and solving **pra
 ## ⭐ Featured Projects
 
 ### 🚀 Full Stack & Web
-- **EchoCart** – AI-assisted shopping & recommendation system  
+- **EchoCart** – Full Stack E-Commerce Platform (AWS Deployed)  
   🔗 Github: [Link](https://github.com/mr-piyushkr/EchoCart)
   
-  <!-- 🌐 Live: []Link](http://<your-ec2-ip-or-domain) -->
+   🌐 Live: [Link](http://echocart-frontend-2024.s3-website.eu-north-1.amazonaws.com/)
 
 - **Shopping Admin Dashboard** – Role-based admin UI with data management  
   🔗 Github: [Link](https://github.com/mr-piyushkr/shopping-admin-dashboard)
